@@ -15,7 +15,7 @@ A real-time working college timetable website.
 - Use **Right arrow key** to move to the **next day** and use the **Left arrow key** to move to the **previous day**.
 - Use **Down arrow key** to move to the **next period** and use the **Up arrow key** to move to the **previous period**. 
 
-### Team Members
+## Team Members
  - **Harish (22191101059)**
   - **Jagadish kumar (221191101063)**
   - **Jayadithya (221191101064)**
