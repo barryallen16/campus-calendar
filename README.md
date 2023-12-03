@@ -10,6 +10,8 @@ A real-time working college timetable website.
 - If you hasn't registered yet, click on "Register now!" button and register using your "register no" and your preferred username.
 - After registration, enter your username to login in.
 - If you have forgotten your username, click on "Forgot username" button to find your username registered with your register no.
+## fa
+[faf](./preview/Screenshot-2023-12-03-223942.png)
 ### Team Members
  - Harish (22191101059)
   - Jagadish kumar (221191101063)
